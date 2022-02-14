@@ -7,7 +7,12 @@ description: Lecture presentation on wave mechanics, the first postulate, normal
   position and probability, and deterministic versus stochastic models.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/ba5f84d8fd278417996ade3cfc5f403b_lec3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Curiosity Killed the Cat
+type: OCWFile
 uid: ba5f84d8-fd27-8417-996a-de3cfc5f403b
 ---

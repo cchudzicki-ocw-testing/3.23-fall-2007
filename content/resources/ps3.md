@@ -6,7 +6,12 @@ description: Homework assignment on the scanning tunneling microscope. The purpo
   of the model with experiment.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/5564dcfbc549a7fde301c8bca5c76456_ps3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Homework #3'
+type: OCWFile
 uid: 5564dcfb-c549-a7fd-e301-c8bca5c76456
 ---

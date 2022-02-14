@@ -5,7 +5,12 @@ description: Solutions to a homework assignment on the propagation equation in a
   medium, and interband absorption.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/ee485cbc1e36ec4e67397f832ad23d56_sol8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Homework #8 Solutions'
+type: OCWFile
 uid: ee485cbc-1e36-ec4e-6739-7f832ad23d56
 ---

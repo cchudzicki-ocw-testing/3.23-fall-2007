@@ -6,7 +6,12 @@ description: Lecture presentation on the band structure of oxides, semiconductor
   and quantum particles, Fermi-Dirac distribution, and chemical potential.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/378934ae2e6b4f8473d6d8ba84b23161_lec12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Semiconductors
+type: OCWFile
 uid: 378934ae-2e6b-4f84-73d6-d8ba84b23161
 ---

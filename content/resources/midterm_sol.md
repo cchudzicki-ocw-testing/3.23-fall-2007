@@ -5,7 +5,11 @@ description: Solutions to a midterm exam on commuting operators, acoustic and op
   metals and Peierls distortions, and the ammonia maser.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1698cec4b843094f8e48e54d8224b39b_midterm_sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Midterm Exam Solutions
+type: OCWFile
 uid: 1698cec4-b843-094f-8e48-e54d8224b39b
 ---

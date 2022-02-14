@@ -6,7 +6,12 @@ description: "Lecture presentation on the time-dependent Schr\xF6dinger equation
   \ tunneling microscope."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1c83d57a0fc5bfff130aec7e1b4c9c9e_clean2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Think Outside the Box
+type: OCWFile
 uid: 1c83d57a-0fc5-bfff-130a-ec7e1b4c9c9e
 ---

@@ -7,7 +7,12 @@ description: "Lecture presentation on wave mechanics, commuting Hermitian operat
   \ momentum, commutation relation, and spherical harmonics in real form."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/a4c8c890e5ac1d59942f4ca9607e3405_clean4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Close to Collapse
+type: OCWFile
 uid: a4c8c890-e5ac-1d59-942f-4ca9607e3405
 ---

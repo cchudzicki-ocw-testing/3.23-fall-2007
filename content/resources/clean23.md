@@ -6,7 +6,12 @@ description: "Lecture presentation on optical processes processes, optical mater
   \ Hamiltonian."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1ee0225f846efb56de3dea54ecfbf1ff_clean23.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Fermi\u2019s Golden Rule"
+type: OCWFile
 uid: 1ee0225f-846e-fb56-de3d-ea54ecfbf1ff
 ---

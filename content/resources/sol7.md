@@ -4,7 +4,12 @@ description: Solutions to a homework assignment on intrinsic semiconductors, p-d
   semiconductors, and the p-n junction.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/b31cbef9e33530bca919c4d77fbdb8d0_sol7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Homework #7 Solutions'
+type: OCWFile
 uid: b31cbef9-e335-30bc-a919-c4d77fbdb8d0
 ---

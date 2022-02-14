@@ -4,7 +4,12 @@ description: Solutions to a homework assignment on average lifetime of excited c
   laser oscillation, and power efficiency.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/04005853570adeec84108402bc611650_sol12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Homework #12 Solutions'
+type: OCWFile
 uid: 04005853-570a-deec-8410-8402bc611650
 ---

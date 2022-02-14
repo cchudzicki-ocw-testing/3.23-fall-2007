@@ -7,7 +7,12 @@ description: "Introductory lecture presentation on electrical, optical, and magn
   dinger equation."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/829ab4714beea8056e22cbf798022215_clean1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Waves Mechanics
+type: OCWFile
 uid: 829ab471-4bee-a805-6e22-cbf798022215
 ---
