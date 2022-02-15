@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Homework #8 Solutions'
-type: OCWFile
 uid: ee485cbc-1e36-ec4e-6739-7f832ad23d56
 ---

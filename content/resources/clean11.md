@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Fermi
-type: OCWFile
 uid: 17b969c3-a127-60b6-5b7f-a011fbc06edb
 ---

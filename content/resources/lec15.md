@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Anharmonicity
-type: OCWFile
 uid: ffbcb29d-c4bc-a37b-99ea-45f70439d4da
 ---

@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Last Lecture!
-type: OCWFile
 uid: a1e0ad49-be78-8f53-c7d7-0d46e5033f70
 ---

@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Hydrogen Economy
-type: OCWFile
 uid: 83e624f8-5954-895c-6a87-ef259b2d9ada
 ---

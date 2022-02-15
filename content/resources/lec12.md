@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Semiconductors
-type: OCWFile
 uid: 378934ae-2e6b-4f84-73d6-d8ba84b23161
 ---

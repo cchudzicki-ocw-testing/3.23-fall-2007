@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Tight-Binding
-type: OCWFile
 uid: 1e9c164a-3eff-f4ba-9655-846180155a5c
 ---

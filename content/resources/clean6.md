@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Variations and Vibrations
-type: OCWFile
 uid: 992befec-1e95-f2c8-9bf4-8203a5b292d5
 ---

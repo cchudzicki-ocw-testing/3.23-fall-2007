@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Close to Collapse
-type: OCWFile
 uid: c967fe07-2464-ca7c-67ff-64bda47dbd1f
 ---

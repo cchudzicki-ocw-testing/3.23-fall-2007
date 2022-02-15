@@ -10,6 +10,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: Midterm Exam Solutions
-type: OCWFile
 uid: 1698cec4-b843-094f-8e48-e54d8224b39b
 ---

@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: Quantum Mechanics - Exercise Sheet 1
-type: OCWFile
 uid: bb2e273a-3f23-8799-28f0-7c795a071f09
 ---

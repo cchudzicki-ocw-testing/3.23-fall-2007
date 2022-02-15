@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Maxwell and Electromagnetism
-type: OCWFile
 uid: 2783bc93-3878-4e88-9426-e53a967eaa8a
 ---

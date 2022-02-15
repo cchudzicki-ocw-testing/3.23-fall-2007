@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ERIODICPERIODICPERIODICPERIODICPE
-type: OCWFile
 uid: 8b6d8491-1e5d-9fe4-ea42-c3243313635d
 ---

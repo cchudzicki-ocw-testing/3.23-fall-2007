@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Think Outside the Box
-type: OCWFile
 uid: d51c78e0-530c-bc5c-d514-00154d19f910
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Magnets 2
-type: OCWFile
 uid: 31bd6b69-61fb-b595-c872-0c2791f0054e
 ---

@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Inhomogenous Semiconductors
-type: OCWFile
 uid: e1c4da90-c17f-c62f-4f6e-789dff91155a
 ---

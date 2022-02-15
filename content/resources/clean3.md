@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Curiosity Killed the Cat
-type: OCWFile
 uid: 55087bf9-ce2a-0c80-c588-e7f10200d687
 ---

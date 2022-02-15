@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Fermat's First Theorem
-type: OCWFile
 uid: c93d639a-643f-eb06-f378-d9f9854c4774
 ---

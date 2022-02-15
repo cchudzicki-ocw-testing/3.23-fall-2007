@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Luminescence
-type: OCWFile
 uid: 7b677e74-6cc2-03b7-1bd2-2cc7a9a2954c
 ---

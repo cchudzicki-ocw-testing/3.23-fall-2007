@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: One Bloch at a Time
-type: OCWFile
 uid: 5800ad67-59c7-b34c-285d-3ccc7f58c10c
 ---

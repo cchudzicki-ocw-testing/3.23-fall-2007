@@ -10,6 +10,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: Quiz 1
-type: OCWFile
 uid: 5d130a0e-f3fd-12de-532d-204f22e2254d
 ---

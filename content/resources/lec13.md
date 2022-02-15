@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Law of Mass Action
-type: OCWFile
 uid: 8431866a-0747-4616-3c59-9abc9f3d6512
 ---

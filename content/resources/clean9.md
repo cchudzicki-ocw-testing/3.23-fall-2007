@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Band Structure
-type: OCWFile
 uid: 3d028542-d1fa-3737-380c-b3c7ff4636bc
 ---

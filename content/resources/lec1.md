@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Waves Mechanics
-type: OCWFile
 uid: d033eab9-e3d7-1559-d812-9ca479f9f51f
 ---
