@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides handouts and exercises on matrix math, quantum
+  mechanics, and other topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
