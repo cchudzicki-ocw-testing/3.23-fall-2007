@@ -6,6 +6,7 @@ description: Solutions to a midterm exam on commuting operators, acoustic and op
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1698cec4b843094f8e48e54d8224b39b_midterm_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
